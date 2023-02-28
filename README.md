@@ -10,7 +10,7 @@ This project was developed using Python version `3.9.6`
 2. Install `python3` using any installation method (homebrew, python website, etc)
 3. `cd` into the repository
 4. Create a virtual environment using `python3 -m venv .venv`
-5. Activate virtual environment using `.venv/bin/activate`
+5. Activate virtual environment using `source .venv/bin/activate`
 6. Install requirements using `pip3 install -r requirements.txt`
 7. Start Flask application using `flask --app receipt-processor run --debug` (debug flag is optional)
 8. Now you can use the API using `curl`!
