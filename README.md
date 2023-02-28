@@ -6,7 +6,7 @@
 
 ## Runbook
 This project was developed using Python version `3.9.6`
-1. Clone the repository to your local machine using `https://github.com/bhargav-y/fetch-receipt-processor.git`
+1. Clone the repository to your local machine using `git clone https://github.com/bhargav-y/fetch-receipt-processor.git`
 2. Install `python3` using any installation method (homebrew, python website, etc)
 3. `cd` into the repository
 4. Create a virtual environment using `python3 -m venv .venv`
